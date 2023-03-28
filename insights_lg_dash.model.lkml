@@ -20,3 +20,5 @@ include: "/views/*.view.lkml"                # include all views in the views/ f
 # }
 
 explore: lg_auto_poi_monthly_visits {}
+
+#test comment
